@@ -6,7 +6,7 @@ import { Providers } from "@/components/Providers" // <-- Import the new wrapper
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata = {
-  generator: 'v0.dev',
+  generator: 'sjcit.cps.dev',
 }
 
 export default function RootLayout({
